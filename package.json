@@ -1,4 +1,7 @@
 {
   "name": "blank-react",
-  "packageManager": "yarn@4.3.1"
+  "packageManager": "yarn@4.3.1",
+  "dependencies": {
+    "react": "^18.3.1"
+  }
 }
